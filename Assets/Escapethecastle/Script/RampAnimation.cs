@@ -12,6 +12,6 @@ public class RampAnimation : MonoBehaviour
     }
 
     public void StartAnimation(){
-        anim.Play("RampGoingDown");
+        anim.Play("OpenRamp");
     }
 }
